@@ -5,7 +5,7 @@ This project analyzes student performance data from theory and practical exams u
 
 Dataset
 
-Source: Kaggle – Students Performance in Exams
+Source: Kaggle – https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?resource=download
 
 Records: 1000 students, 15+ features
 
@@ -33,12 +33,6 @@ Math, reading, and writing scores are strongly correlated
 
 MLP model achieves ~88% accuracy and high AUC
 
-How to Run
-git clone https://github.com/yourusername/Student-Performance-Analysis.git
-cd Student-Performance-Analysis
-pip install -r requirements.txt
-python src/main.py
-# or open notebooks/EDA_and_Model.ipynb
 
 Future Scope
 
